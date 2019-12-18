@@ -22,11 +22,11 @@
 
 ## Instructions
 
-When joining a collaborative cluster you become a "follower". In order to run a follower peer:
+You can join a collaborative cluster by running a "follower" peer (a peer without write access to the Cluster's pinset). In order to run a follower peer:
 
-* To keep your [go-ipfs](https://github.com/ipfs/go-ipfs#install) daemon online.
-* To download the [ipfs-cluster-follow](https://dist.ipfs.io/#ipfs-cluster-follow) application.
-* Execute the *Init&Run* command from the Cluster description above after starting your IPFS daemon. This will:
+* Start and keep your [go-ipfs](https://github.com/ipfs/go-ipfs#install) daemon online.
+* Download the [ipfs-cluster-follow](https://dist.ipfs.io/#ipfs-cluster-follow) application.
+* Execute the *Init&Run* command from the Cluster descriptions above, after starting your IPFS daemon. This will:
   * Generate a new peer identity when no identity exists before
   * Run a follower peer by fetching a configuration template specific for that Cluster
   * Sync and instruct the IPFS daemon what to pin
