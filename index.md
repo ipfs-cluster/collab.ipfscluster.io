@@ -6,13 +6,11 @@
 * [How to run a follower peer](#instructions)
 * [Helping the project](#helping-the-project)
 
-## List of Clusters
-
 ---
 
-### Filecoin cluster
+## List of Clusters
 
-| | |
+| Filecoin cluster | |
 | - | - |
 | **Description** | The Filecoin cluster holds filecoin proofs and filecoin-related binaries. |
 | ***Init&Run*** | ```ipfs-cluster-follow filecoin --init filecoin.collab.ipfscluster.io run``` |
@@ -20,6 +18,7 @@
 | **Version** | 0.12.0 |
 | **Hosted by** | Protocol Labs |
 
+---
 
 ## Instructions
 
@@ -36,7 +35,9 @@ You can obtain more help about `ipfs-cluster-follow` usage [here](https://github
 
 You can follow as many collaborative clusters as you want. The different follower peers will run in parallel!
 
-### Helping the project
+---
+
+## Helping the project
 
 Help us distribute and backup important data on the IPFS network. You can help us by:
 
