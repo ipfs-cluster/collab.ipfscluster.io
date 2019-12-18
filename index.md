@@ -30,6 +30,8 @@ You can join a collaborative cluster by running a "follower" peer (a peer withou
   * Generate a new peer identity when no identity exists before
   * Run a follower peer by fetching a configuration template specific for that Cluster
   * Sync and instruct the IPFS daemon what to pin
+* To check what is being pinned by this cluster, run `ipfs-cluster-follow <clusterName> list`
+
 
 You can obtain more help about `ipfs-cluster-follow` usage [here](https://github.com/ipfs/ipfs-cluster/blob/master/cmd/ipfs-cluster-follow/dist/README.md).
 
