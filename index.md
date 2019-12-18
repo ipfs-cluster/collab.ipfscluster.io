@@ -12,16 +12,16 @@ You can follow as many collaborative clusters as you want. The different followe
 
 ### List of Clusters
 
-To run a follower peer for the chosen Cluster, run the Init&Run command after starting your IPFS daemon. This will:
+To run a follower peer for the chosen Cluster, run the *Init&Run* command after starting your IPFS daemon (you can run several followers in parallel!). This will:
   * Generate a new peer identity when no identity exists before
   * Run a follower peer by fetching a configuration template specific for that Cluster
   * Sync and instruct the IPFS daemon what to pin
 
 You can obtain more help about `ipfs-cluster-follow` usage [here](https://github.com/ipfs/ipfs-cluster/blob/master/cmd/ipfs-cluster-follow/dist/README.md).
 
-| Cluster name | Init&Run command | Minimum space requirement | Version | Hosted by |
+| Cluster name | *Init&Run* command | Minimum space requirement | Version | Hosted by |
 | ------------ | ---------------- | ------------------------- | ------- | --------- |
-| Filecoin | `ipfs-cluster-follow filecoin --init filecoin.collab.ipfscluster.io run` | 600GB | 0.12.0 | Protocol Labs |
+| Filecoin | <pre>ipfs-cluster-follow filecoin --init filecoin.collab.ipfscluster.io run</pre> | 600GB | 0.12.0 | Protocol Labs |
 
 ### Helping the project
 
