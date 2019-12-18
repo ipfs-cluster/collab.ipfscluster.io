@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Collaborative Clusters
 
-You can use the [editor on GitHub](https://github.com/ipfs-cluster/collaborative-clusters-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*Collaborative clusters* are public IPFS Clusters that anyone can join to help replicating and re-distributing content on the IPFS network.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When joining a collaborative cluster you become a "followers". In order to run a follower peer:
 
-### Markdown
+* To keep your [go-ipfs](https://github.com/ipfs/go-ipfs#install) daemon online.
+* To download the [ipfs-cluster-follow](https://dist.ipfs.io/#ipfs-cluster-follow) application.
+* To follow the instructions below for every collaborative cluster you are interested in.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can follow as many collaborative clusters as you want. The different follower peers will run in parallel.
 
-```markdown
-Syntax highlighted code block
+### List of Clusters
 
-# Header 1
-## Header 2
-### Header 3
+To run a follower peer for the chosen Cluster, run the Init&Run command after starting your IPFS daemon. This will:
+  * Generate a new peer identity when no identity exists before
+  * Run a follower peer by fetching a configuration template specific for that Cluster
+  * Sync and instruct the IPFS daemon what to pin
 
-- Bulleted
-- List
+You can obtain more help about `ipfs-cluster-follow` usage [here](https://github.com/ipfs/ipfs-cluster/blob/master/cmd/ipfs-cluster-follow/dist/README.md).
 
-1. Numbered
-2. List
+| Cluster name | Init&Run command | Minimum space requirement | Version | Hosted by |
+| ------------ | ---------------- | ------------------------- | ------- | --------- |
+| Filecoin | `ipfs-cluster-follow filecoin --init filecoin.collab.ipfscluster.io run` | 600GB | 0.12.0 | Protocol Labs |
 
-**Bold** and _Italic_ and `Code` text
+### Helping the project
 
-[Link](url) and ![Image](src)
-```
+Help us distribute and backup important data on the IPFS network. You can help us by:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ipfs-cluster/collaborative-clusters-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Proposing new, interesting archives that we can distribute through new Clusters.
+* Hosting new collaborative clusters yourself (see documentation in the [IPFS Cluster website](https://cluster.ipfs.io)
+* Improving [this website](https://github.com/ipfs-cluster/collab.ipfscluster.io)
+* Reporting issues that you encounter, asking questions and distributing the word: https://cluster.ipfs.io/support/
