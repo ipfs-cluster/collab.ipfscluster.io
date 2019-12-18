@@ -10,7 +10,7 @@
 
 ## List of Clusters
 
-| Filecoin cluster | |
+| | Filecoin cluster |
 | - | - |
 | **Description** | The Filecoin cluster holds filecoin proofs and filecoin-related binaries. |
 | ***Init&Run*** | ```ipfs-cluster-follow filecoin --init filecoin.collab.ipfscluster.io run``` |
