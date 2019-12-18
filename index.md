@@ -19,9 +19,13 @@ To run a follower peer for the chosen Cluster, run the *Init&Run* command after 
 
 You can obtain more help about `ipfs-cluster-follow` usage [here](https://github.com/ipfs/ipfs-cluster/blob/master/cmd/ipfs-cluster-follow/dist/README.md).
 
-| Cluster name | *Init&Run* command | Minimum space requirement | Version | Hosted by |
-| ------------ | ---------------- | ------------------------- | ------- | --------- |
-| Filecoin | <pre>ipfs-cluster-follow filecoin --init filecoin.collab.ipfscluster.io run</pre> | 600GB | 0.12.0 | Protocol Labs |
+| | Filecoin cluster |
+| - | - |
+| ** Description ** | The Filecoin cluster holds filecoin proofs and filecoin-related binaries. |
+| ***Init&Run* command** | ipfs-cluster-follow filecoin --init filecoin.collab.ipfscluster.io run |
+| **Space requirements** | 600GB |
+| **Version** | 0.12.0 |
+| **Hosted by** | Protocol Labs |
 
 ### Helping the project
 
