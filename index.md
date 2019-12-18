@@ -1,4 +1,4 @@
-## Collaborative Clusters
+# IPFS Cluster - Collaborative Clusters
 
 *Collaborative clusters* are public IPFS Clusters that anyone can join to help replicating and re-distributing content on the IPFS network.
 
@@ -6,11 +6,13 @@
 * [How to run a follower peer](#instructions)
 * [Helping the project](#helping-the-project)
 
-### List of Clusters
+## List of Clusters
 
 ---
 
-| | Filecoin cluster |
+### Filecoin cluster
+
+| | |
 | - | - |
 | **Description** | The Filecoin cluster holds filecoin proofs and filecoin-related binaries. |
 | ***Init&Run*** | ```ipfs-cluster-follow filecoin --init filecoin.collab.ipfscluster.io run``` |
@@ -19,7 +21,7 @@
 | **Hosted by** | Protocol Labs |
 
 
-### Instructions
+## Instructions
 
 When joining a collaborative cluster you become a "follower". In order to run a follower peer:
 
