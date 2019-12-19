@@ -27,7 +27,7 @@
 | **Size** | 1GB |
 | **Version** | 0.12.0 |
 | **Hosted by** | Protocol Labs |
-| **Archive** | https://github.com/ipfs-shipyard/gutenberg-to-ipfs |
+| **Archive** | [https://github.com/ipfs-shipyard/gutenberg-to-ipfs](https://github.com/ipfs-shipyard/gutenberg-to-ipfs) |
 
 ---
 
