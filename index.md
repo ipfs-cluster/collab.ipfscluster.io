@@ -13,7 +13,7 @@
 | | Filecoin cluster |
 | - | - |
 | **Description** | The Filecoin cluster holds filecoin proofs and filecoin-related binaries. |
-| ***Init&Run*** | ```ipfs-cluster-follow filecoin --init filecoin.collab.ipfscluster.io run``` |
+| ***Init&Run*** | ```ipfs-cluster-follow filecoin run --init filecoin.collab.ipfscluster.io``` |
 | **Size** | 600GB |
 | **Version** | 0.12.0 |
 | **Hosted by** | Protocol Labs |
