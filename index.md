@@ -10,13 +10,24 @@
 
 ## List of Clusters
 
-| | Filecoin cluster |
+| | [Filecoin Params](https://filecoin.io) |
 | - | - |
 | **Description** | The Filecoin cluster holds filecoin proofs and filecoin-related binaries. |
-| ***Init&Run*** | ```ipfs-cluster-follow filecoin run --init filecoin.collab.ipfscluster.io``` |
+| ***Init&Run*** | `ipfs-cluster-follow filecoin run --init filecoin.collab.ipfscluster.io` |
 | **Size** | 100GB (expected to grow over time to 500GB) |
 | **Version** | 0.12.0 |
 | **Hosted by** | Protocol Labs |
+
+---
+
+| | [Project Gutenberg (Spanish)](https://gutenberg.org) |
+| - | - |
+| **Description** | Spanish eBooks from Project Gutenberg, in HTML format. |
+| ***Init&Run*** | `ipfs-cluster-follow gutenberg_es run --init gutenberg_es.collab.ipfscluster.io` |
+| **Size** | 1GB |
+| **Version** | 0.12.0 |
+| **Hosted by** | Protocol Labs |
+| **Archive** | https://github.com/ipfs-shipyard/gutenberg-to-ipfs |
 
 ---
 
