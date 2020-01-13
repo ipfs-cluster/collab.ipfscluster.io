@@ -23,7 +23,7 @@
 | | [Project Gutenberg (Spanish)](https://gutenberg.org) |
 | - | - |
 | **Description** | Spanish eBooks from Project Gutenberg, in HTML format. |
-| ***Init&Run*** | `ipfs-cluster-follow gutenberg_es run --init gutenberg_es.collab.ipfscluster.io` |
+| ***Init&Run*** | `ipfs-cluster-follow gutenberg_es run --init gutenberg-es.collab.ipfscluster.io` |
 | **Size** | 1GB |
 | **Cluster version** | 0.12.0 |
 | **Hosted by** | Protocol Labs |
