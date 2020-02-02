@@ -42,6 +42,18 @@
 
 ---
 
+| | Pacman.store |
+| - | - |
+| **Description** | pkg cache for Pacman + ISOs |
+| ***Init&Run*** | `ipfs-cluster-follow cluster.pacman.store run --init cluster.pacman.store/default.json` or `ipfs-cluster-follow cluster.pacman.store run --init cluster.pacman.store/mdns_enabled.json` |
+| **Size** | 100GB (expected to grow over time) |
+| **Cluster version** | 0.12.1 |
+| **Hosted by** | @RubenKelevra |
+| **How-To Use** | [Introduction](https://github.com/RubenKelevra/pacman.store/blob/master/README.md#pacmanstore) |
+| **Tooling** | [pacman.store toolset](https://github.com/RubenKelevra/pacman.store/tree/master/toolset) |
+
+---
+
 
 ## Instructions
 
