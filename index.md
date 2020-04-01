@@ -54,6 +54,14 @@
 
 ---
 
+| | [CORD-19 Mirror](https://pages.semanticscholar.org/coronavirus-research) |
+| - | - | 
+| **Description** | COVID-19 research datasets mirror known as CORD-19 |
+| ***Init&Run*** | `ipfs-cluster-follow cord19-datasets run --init cord19.temporal.cloud` |
+| **Size** | 700MB |
+| **Cluster version** | 0.12.1 |
+| **Hosted by** | RTrade Technologies Ltd / Temporal |
+| **Tooling** | [cord19-collaborative-cluster](https://github.com/RTradeLtd/cord19-collaborative-cluster/tree/master) |
 
 ## Instructions
 
