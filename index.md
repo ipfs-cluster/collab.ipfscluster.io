@@ -63,6 +63,16 @@
 | **Hosted by** | RTrade Technologies Ltd / Temporal |
 | **Tooling** | [cord19-collaborative-cluster](https://github.com/RTradeLtd/cord19-collaborative-cluster/tree/master) |
 
+---
+
+| | [ipfs-search.com daily index snapshots](https://github.com/ipfs-search/ipfs-search/blob/master/docs/snapshots.md) |
+| - | - | 
+| **Description** | Incremental, daily, Elasticsearch snapshots of the full search index. |
+| ***Init&Run*** | `ipfs-cluster-follow ipfs-search run --init cluster.ipfs-search.com` |
+| **Size** | ~500GB |
+| **Cluster version** | 0.12.1 |
+| **Hosted by** | [ipfs-search.com](https://ipfs-search.com) |
+
 ## Instructions
 
 You can join a collaborative cluster by running a "follower" peer (a peer without write access to the Cluster's pinset). In order to run a follower peer:
