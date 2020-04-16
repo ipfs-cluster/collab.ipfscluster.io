@@ -75,7 +75,7 @@
 
 ---
 
-| | [Ravencoin Assets' IPFS data](https://ravencoin.org) |
+| | [Ravencoin.Network IPFS cluster powered by Ravenland](https://ravencoin.network) |
 | - | - | 
 | **Description** | The Ravencoin cluster contains the IPFS content of all Ravencoin assets |
 | ***Init&Run*** | `ipfs-cluster-follow ipfs-search run --init cluster.ipfs-search.com` |
