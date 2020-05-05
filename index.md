@@ -73,6 +73,16 @@
 | **Cluster version** | 0.12.1 |
 | **Hosted by** | [ipfs-search.com](https://ipfs-search.com) |
 
+---
+
+| | [Ravencoin.Network IPFS cluster powered by Ravenland](https://ravencoin.network) |
+| - | - | 
+| **Description** | The Ravencoin cluster contains the IPFS content of all Ravencoin assets |
+| ***Init&Run*** | `ipfs-cluster-follow ipfs-search run --init cluster.ipfs-search.com` |
+| **Size** | ~100GB (ought to grow over time with new asset creation) |
+| **Cluster version** | 0.12.1 |
+| **Hosted by** | [ravencoin.network](https://ravencoin.network) |
+
 ## Instructions
 
 You can join a collaborative cluster by running a "follower" peer (a peer without write access to the Cluster's pinset). In order to run a follower peer:
