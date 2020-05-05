@@ -78,10 +78,10 @@
 | | [Ravencoin.Network IPFS cluster powered by Ravenland](https://ravencoin.network) |
 | - | - | 
 | **Description** | The Ravencoin cluster contains the IPFS content of all Ravencoin assets |
-| ***Init&Run*** | `ipfs-cluster-follow ipfs-search run --init cluster.ipfs-search.com` |
+| ***Init&Run*** | `ipfs-cluster-follow ipfs-search run --init ipfs-collab.ravencoin.network` |
 | **Size** | ~100GB (ought to grow over time with new asset creation) |
 | **Cluster version** | 0.12.1 |
-| **Hosted by** | [ravencoin.network](https://ravencoin.network) |
+| **Hosted by** | [Ravenland.org](https://ravenland.org) |
 
 ## Instructions
 
