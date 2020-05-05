@@ -46,7 +46,7 @@
 | - | - |
 | **Description** | pkg cache for Pacman + ISOs |
 | ***Init&Run*** | `ipfs-cluster-follow pacman.store run --init cluster.pacman.store` |
-| **Size** | 100GB (expected to grow over time) |
+| **Size** | 70GB (might grow over time) |
 | **Cluster version** | 0.12.1 |
 | **Hosted by** | @RubenKelevra |
 | **How-To Use** | [Introduction](https://github.com/RubenKelevra/pacman.store/blob/master/README.md#pacmanstore) |
