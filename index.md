@@ -15,7 +15,7 @@
 | **Description** | The Filecoin cluster holds filecoin proofs and filecoin-related binaries. |
 | ***Init&Run*** | `ipfs-cluster-follow filecoin run --init filecoin.collab.ipfscluster.io` |
 | **Size** | 100GB (expected to grow over time to 500GB) |
-| **Cluster version** | 0.12.1 |
+| **Cluster version** | 0.13.0 |
 | **Hosted by** | Protocol Labs |
 
 ---
@@ -25,7 +25,7 @@
 | **Description** | Spanish eBooks from Project Gutenberg, in HTML format. |
 | ***Init&Run*** | `ipfs-cluster-follow gutenberg_es run --init gutenberg-es.collab.ipfscluster.io` |
 | **Size** | 1GB |
-| **Cluster version** | 0.12.1 |
+| **Cluster version** | 0.13.0 |
 | **Hosted by** | Protocol Labs |
 | **Tooling** | [gutenberg-to-ipfs repository](https://github.com/ipfs-shipyard/gutenberg-to-ipfs) |
 
@@ -36,7 +36,7 @@
 | **Description** | A collection of IPFS related websites (ipfs.io, libp2p.io, docs.ipfs.io...) |
 | ***Init&Run*** | `ipfs-cluster-follow ipfs-websites run --init ipfs-websites.collab.ipfscluster.io` |
 | **Size** | 600MB |
-| **Cluster version** | 0.12.1 |
+| **Cluster version** | 0.13.0 |
 | **Hosted by** | Protocol Labs |
 | **Tooling** | [pin-websites.sh](https://github.com/ipfs-cluster/archive-tools/blob/master/ipfs-websites/pin-websites.sh) |
 
