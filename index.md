@@ -83,6 +83,14 @@
 | **Cluster version** | 0.12.1 |
 | **Hosted by** | [Ravenland.org](https://ravenland.org) |
 
+| | [George Floyd 2020 Protest Media Archive](https://github.com/2020PB/police-brutality) |
+| - | - | 
+| **Description** | Archive for all media related to the George Floyd 2020 protests |
+| ***Init&Run*** | `ipfs-cluster-follow 2020pb-dataset run --init 2020pb.temporal.cloud` |
+| **Size** | ~7.9GB (will grow over time) |
+| **Cluster version** | 0.12.1 |
+| **Hosted by** | [Temporal.Cloud](https://temporal.cloud) |
+
 ## Instructions
 
 You can join a collaborative cluster by running a "follower" peer (a peer without write access to the Cluster's pinset). In order to run a follower peer:
