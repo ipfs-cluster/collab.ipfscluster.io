@@ -44,9 +44,9 @@
 
 | | Pacman.store |
 | - | - |
-| **Description** | pkg cache for Pacman + ISOs |
-| ***Init&Run*** | `ipfs-cluster-follow pacman.store run --init cluster.pacman.store` |
-| **Size** | 70GB (might grow over time) |
+| **Description** | package mirror for ArchLinux and Manjaro |
+| ***Init&Run*** | `ipfs-cluster-follow pkg.pacman.store run --init cluster.pkg.pacman.store` |
+| **Size** | around 150GB (might grow and fluctuate over time) |
 | **Cluster version** | 0.13.0 |
 | **Hosted by** | @RubenKelevra |
 | **How-To Use** | [Introduction](https://github.com/RubenKelevra/pacman.store/blob/master/README.md#pacmanstore) |
