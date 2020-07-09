@@ -50,7 +50,7 @@
 | **Cluster version** | 0.13.0 |
 | **Hosted by** | @RubenKelevra |
 | **How-To Use** | [Introduction](https://github.com/RubenKelevra/pacman.store/blob/master/README.md#pacmanstore) |
-| **Tooling** | [pacman.store toolset](https://github.com/RubenKelevra/pacman.store/tree/master/toolset) |
+| **Tooling** | [pacman.store toolset](https://github.com/RubenKelevra/rsync2ipfs-cluster) |
 
 ---
 
