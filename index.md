@@ -114,6 +114,6 @@ You can obtain more help about `ipfs-cluster-follow` usage [here](https://cluste
 Help us distribute and backup important data on the IPFS network. You can help us by:
 
 * Proposing new, interesting archives that we can distribute through new Clusters.
-* Hosting new collaborative clusters yourself (see documentation in the [IPFS Cluster website](https://cluster.ipfs.io/documentation/collaborative/)
+* Hosting new collaborative clusters yourself (see documentation in the [IPFS Cluster website](https://cluster.ipfs.io/documentation/collaborative/))
 * Improving [this website](https://github.com/ipfs-cluster/collab.ipfscluster.io)
 * Reporting issues that you encounter, asking questions and distributing the word: [https://cluster.ipfs.io/support/](https://cluster.ipfs.io/support/)
