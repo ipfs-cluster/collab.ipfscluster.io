@@ -83,6 +83,8 @@
 | **Cluster version** | 0.12.1 |
 | **Hosted by** | [Ravenland.org](https://ravenland.org) |
 
+---
+
 | | [George Floyd 2020 Protest Media Archive](https://github.com/2020PB/police-brutality) |
 | - | - | 
 | **Description** | Archive for all media related to the George Floyd 2020 protests |
