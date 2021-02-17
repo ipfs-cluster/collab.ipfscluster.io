@@ -91,6 +91,16 @@
 | **Cluster version** | 0.12.1 |
 | **Hosted by** | [Temporal.Cloud](https://temporal.cloud) |
 
+---
+
+| | Wikipedia |
+| - | - | 
+| **Description** | Snapshots of Wikipedia articles for various languages |
+| ***Init&Run*** | `ipfs-cluster-follow ipfs-search run --init ipfs-collab.wikipedia` |
+| **Size** | ~20GB (will grow over time as additional languages are added) |
+| **Cluster version** | 0.13.1 |
+| **Hosted by** | Protocol Labs |
+
 ## Instructions
 
 You can join a collaborative cluster by running a "follower" peer (a peer without write access to the Cluster's pinset). In order to run a follower peer:
