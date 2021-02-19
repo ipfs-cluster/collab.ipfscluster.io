@@ -98,7 +98,7 @@
 | | Wikipedia |
 | - | - | 
 | **Description** | Snapshots of Wikipedia articles for various languages |
-| ***Init&Run*** | `ipfs-cluster-follow ipfs-search run --init wikipedia.collab.ipfscluster.io` |
+| ***Init&Run*** | `ipfs-cluster-follow wikipedia run --init wikipedia.collab.ipfscluster.io` |
 | **Size** | ~20GB (will grow over time as additional languages are added) |
 | **Cluster version** | 0.13.1 |
 | **Hosted by** | Protocol Labs |
