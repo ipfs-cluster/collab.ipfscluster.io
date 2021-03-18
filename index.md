@@ -103,6 +103,17 @@
 | **Cluster version** | 0.13.1 |
 | **Hosted by** | Protocol Labs |
 
+---
+
+| | [nft.storage](https://nft.storage/) |
+| - | - | 
+| **Description** |  |
+| ***Init&Run*** | `ipfs-cluster-follow nft.storage run --init nft.storage.collab.ipfscluster.io` |
+| **Size** | ~10GB (will grow over time as additional tokens are added) |
+| **Cluster version** | 0.13.1 |
+| **Hosted by** | Protocol Labs |
+
+
 ## Instructions
 
 You can join a collaborative cluster by running a "follower" peer (a peer without write access to the Cluster's pinset). In order to run a follower peer:
