@@ -54,44 +54,13 @@
 
 ---
 
-| | [CORD-19 Mirror](https://pages.semanticscholar.org/coronavirus-research) |
-| - | - | 
-| **Description** | COVID-19 research datasets mirror known as CORD-19 |
-| ***Init&Run*** | `ipfs-cluster-follow cord19-datasets run --init cord19.temporal.cloud` |
-| **Size** | 700MB |
-| **Cluster version** | 0.12.1 |
-| **Hosted by** | RTrade Technologies Ltd / Temporal |
-| **Tooling** | [cord19-collaborative-cluster](https://github.com/RTradeLtd/cord19-collaborative-cluster/tree/master) |
-
----
-
-| | [ipfs-search.com daily index snapshots](https://github.com/ipfs-search/ipfs-search/blob/master/docs/snapshots.md) |
-| - | - | 
-| **Description** | Incremental, daily, Elasticsearch snapshots of the full search index. |
-| ***Init&Run*** | `ipfs-cluster-follow ipfs-search run --init cluster.ipfs-search.com` |
-| **Size** | ~500GB |
-| **Cluster version** | 0.12.1 |
-| **Hosted by** | [ipfs-search.com](https://ipfs-search.com) |
-
----
-
 | | [Ravencoin.Network IPFS cluster powered by Ravenland](https://ravencoin.network) |
 | - | - | 
 | **Description** | The Ravencoin cluster contains the IPFS content of all Ravencoin assets |
-| ***Init&Run*** | `ipfs-cluster-follow ipfs-search run --init ipfs-collab.ravencoin.network` |
+| ***Init&Run*** | `ipfs-cluster-follow ravencoin run --init ipfs-collab.ravencoin.network` |
 | **Size** | ~100GB (ought to grow over time with new asset creation) |
 | **Cluster version** | 0.12.1 |
 | **Hosted by** | [Ravenland.org](https://ravenland.org) |
-
----
-
-| | [George Floyd 2020 Protest Media Archive](https://github.com/2020PB/police-brutality) |
-| - | - | 
-| **Description** | Archive for all media related to the George Floyd 2020 protests |
-| ***Init&Run*** | `ipfs-cluster-follow 2020pb-dataset run --init 2020pb.temporal.cloud` |
-| **Size** | ~7.9GB (will grow over time) |
-| **Cluster version** | 0.12.1 |
-| **Hosted by** | [Temporal.Cloud](https://temporal.cloud) |
 
 ---
 
