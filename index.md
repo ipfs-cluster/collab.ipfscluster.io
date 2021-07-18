@@ -47,7 +47,7 @@
 | **Description** | package mirror for ArchLinux and Manjaro |
 | ***Init&Run*** | `ipfs-cluster-follow pkg.pacman.store run --init cluster.pkg.pacman.store` |
 | **Size** | around 150GB (might grow and fluctuate over time) |
-| **Cluster version** | 0.13.1 |
+| **Cluster version** | 0.14.0 |
 | **Hosted by** | @RubenKelevra |
 | **How-To Use** | [Introduction](https://github.com/RubenKelevra/pacman.store/blob/master/README.md#pacmanstore) |
 | **Tooling** | [pacman.store toolset](https://github.com/RubenKelevra/rsync2ipfs-cluster) |
