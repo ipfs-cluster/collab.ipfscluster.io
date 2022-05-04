@@ -44,9 +44,9 @@
 
 | | Pacman.store |
 | - | - |
-| **Description** | package mirror for ArchLinux, Endeavouros and Manjaro |
+| **Description** | package mirror for ArchLinux, Endeavouros, Manjaro, Chaotic-AUR and ALHP |
 | ***Init&Run*** | `ipfs-cluster-follow pkg.pacman.store run --init cluster.pkg.pacman.store` |
-| **Size** | around 280GB (might grow and fluctuate over time) |
+| **Size** | around 430GB (might grow and fluctuate over time) |
 | **Cluster version** | 1.0 |
 | **Hosted by** | @RubenKelevra |
 | **How-To Use** | [Introduction](https://github.com/RubenKelevra/pacman.store/blob/master/README.md#pacmanstore) |
