@@ -20,17 +20,6 @@
 
 ---
 
-| | [Project Gutenberg (Spanish)](https://gutenberg.org) |
-| - | - |
-| **Description** | Spanish eBooks from Project Gutenberg, in HTML format. |
-| ***Init&Run*** | `ipfs-cluster-follow gutenberg_es run --init gutenberg-es.collab.ipfscluster.io` |
-| **Size** | 1GB |
-| **Cluster version** | 1.0.0-rc3 |
-| **Hosted by** | Protocol Labs |
-| **Tooling** | [gutenberg-to-ipfs repository](https://github.com/ipfs-shipyard/gutenberg-to-ipfs) |
-
----
-
 | | IPFS Websites |
 | - | - |
 | **Description** | A collection of IPFS-related websites (ipfs.io, dist.ipfs.io, libp2p.io, docs.ipfs.io...) |
@@ -51,6 +40,17 @@
 | **Hosted by** | @RubenKelevra |
 | **How-To Use** | [Introduction](https://github.com/RubenKelevra/pacman.store/blob/master/README.md#pacmanstore) |
 | **Tooling** | [pacman.store toolset](https://github.com/RubenKelevra/rsync2ipfs-cluster) |
+
+---
+
+| | [Project Gutenberg (Spanish)](https://gutenberg.org) |
+| - | - |
+| **Description** | Spanish eBooks from Project Gutenberg, in HTML format. |
+| ***Init&Run*** | `ipfs-cluster-follow gutenberg_es run --init gutenberg-es.collab.ipfscluster.io` |
+| **Size** | 1GB |
+| **Cluster version** | 1.0.0-rc3 |
+| **Hosted by** | Protocol Labs |
+| **Tooling** | [gutenberg-to-ipfs repository](https://github.com/ipfs-shipyard/gutenberg-to-ipfs) |
 
 ---
 
