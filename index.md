@@ -64,6 +64,16 @@
 
 ---
 
+| | Wikis as Git |
+| - | - |
+| **Description** | Public Wikis as git: Wikipedia, ... |
+| ***Init&Run*** | `ipfs-cluster-follow wikis-as-git run --init wikis-as-git.collab.ipfscluster.io` |
+| **Size** | unknown (import is still running) |
+| **Cluster version** | 1.0.1 |
+| **Hosted by** | @RubenKelevra |
+
+---
+
 | | Wikipedia |
 | - | - | 
 | **Description** | Snapshots of Wikipedia articles for various languages |
