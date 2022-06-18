@@ -20,17 +20,6 @@
 
 ---
 
-| | [Project Gutenberg (Spanish)](https://gutenberg.org) |
-| - | - |
-| **Description** | Spanish eBooks from Project Gutenberg, in HTML format. |
-| ***Init&Run*** | `ipfs-cluster-follow gutenberg_es run --init gutenberg-es.collab.ipfscluster.io` |
-| **Size** | 1GB |
-| **Cluster version** | 1.0.0-rc3 |
-| **Hosted by** | Protocol Labs |
-| **Tooling** | [gutenberg-to-ipfs repository](https://github.com/ipfs-shipyard/gutenberg-to-ipfs) |
-
----
-
 | | IPFS Websites |
 | - | - |
 | **Description** | A collection of IPFS-related websites (ipfs.io, dist.ipfs.io, libp2p.io, docs.ipfs.io...) |
@@ -54,6 +43,17 @@
 
 ---
 
+| | [Project Gutenberg (Spanish)](https://gutenberg.org) |
+| - | - |
+| **Description** | Spanish eBooks from Project Gutenberg, in HTML format. |
+| ***Init&Run*** | `ipfs-cluster-follow gutenberg_es run --init gutenberg-es.collab.ipfscluster.io` |
+| **Size** | 1GB |
+| **Cluster version** | 1.0.0-rc3 |
+| **Hosted by** | Protocol Labs |
+| **Tooling** | [gutenberg-to-ipfs repository](https://github.com/ipfs-shipyard/gutenberg-to-ipfs) |
+
+---
+
 | | [Ravencoin.Network IPFS cluster powered by Ravenland](https://ravencoin.network) |
 | - | - | 
 | **Description** | The Ravencoin cluster contains the IPFS content of all Ravencoin assets |
@@ -61,6 +61,16 @@
 | **Size** | ~100GB (ought to grow over time with new asset creation) |
 | **Cluster version** | 0.12.1 |
 | **Hosted by** | [Ravenland.org](https://ravenland.org) |
+
+---
+
+| | Wikis as Git |
+| - | - |
+| **Description** | Public Wikis as git: Wikipedia, ... |
+| ***Init&Run*** | `ipfs-cluster-follow wikis-as-git run --init wikis-as-git.collab.ipfscluster.io` |
+| **Size** | unknown (import is still running) |
+| **Cluster version** | 1.0.1 |
+| **Hosted by** | @RubenKelevra |
 
 ---
 
