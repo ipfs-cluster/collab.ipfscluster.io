@@ -74,6 +74,18 @@
 
 ---
 
+---
+
+| | [ipfs-search.com](https://ipfs-search.com) snapshot archive|
+| - | - | 
+| **Description** | OpenSearch snapshots containing ipfs-search.com full dataset (starting 2017) up until public API sunset. |
+| ***Init&Run*** | `ipfs-cluster-follow ipfs-saech run --init https://dweb.link/ipfs/QmZJCsDJZwSKWhGgqpscSCM12kdpuJXpLuwJWWLaoJdpc1/service.json` |
+| **Size** | ~22 TB
+| **Cluster version** | 1.0.6 |
+| **Hosted by** | @dokterbob |
+
+---
+
 ## Instructions
 
 You can join a collaborative cluster by running a "follower" peer (a peer without write access to the Cluster's pinset). In order to run a follower peer:
